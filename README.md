@@ -1,3 +1,4 @@
-# TestR v.0.0.5
+# TestR v.0.0.6
 TESTABC
 TESTDEF
+STUPID
